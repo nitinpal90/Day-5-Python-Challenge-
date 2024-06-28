@@ -2,11 +2,11 @@
 
 Today was packed with insights and hands-on practice. Here’s a quick rundown of what I learned:
 
-🔍 Conditional Statements:
-🔹if ✔️
-🔹if-else 🔄
-🔹if-elif-else 🌟
-🔹nested-if-else 🎯
-🔹Amazon Business Model 💻 
+🔍 Concept of Loop:
+🔹While Loop ✔️
+🔹Infinite Loop 🔄
+🔹For Loop 🌟
+🔹Looping in String 🎯
+🔹Netflix Business Model 💻 
 
 Excited about how much I'm learning! 🤓🔥
